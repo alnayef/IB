@@ -1,1 +1,1 @@
-iOSGGAR Server Security Is Working
+iOSGGAR Server Security is Working
