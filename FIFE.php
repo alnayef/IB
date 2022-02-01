@@ -1,1 +1,1 @@
-Server: ميدو القحبة
+Server: MEDO
