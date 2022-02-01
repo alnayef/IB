@@ -3,7 +3,7 @@
 $k1 = $_GET ["key"];
 
 switch ($k1) {
-case "ibrahem":
+case "sy":
 echo "true";
 break;
 default:
