@@ -1,1 +1,0 @@
-Server: GHOST HACK
