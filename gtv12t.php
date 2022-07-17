@@ -1,1 +1,1 @@
-GHOST SHOOT V1.2 | 🔰 آمن 🙂
+GHOST SHOOT V1.2 | 🔰 آمن
