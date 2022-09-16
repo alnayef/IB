@@ -1,1 +1,1 @@
-GHOST V6.0
+GHOST V1.0
